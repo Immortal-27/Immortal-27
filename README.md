@@ -10,6 +10,17 @@ I am a **B.Tech Computer Science & Engineering** student with a deep passion for
 
 ---
 
+### 🌟 Featured Project
+
+#### [WebByteCrafter](https://webbytecrafter.xyz) 
+**An Advanced API Testing & Development Platform**
+- **Core Functionality:** Built a robust web-based tool for testing RESTful APIs, allowing users to send requests (GET, POST, PUT, DELETE) and analyze real-time responses.
+- **Backend Strength:** Leveraged **Node.js** and **Express.js** to handle asynchronous request processing and middleware integration.
+- **Tech Used:** React.js, Node.js, Express, MongoDB, and Cloud Deployment.
+- **Link:** [Visit webbytecrafter.xyz](https://webbytecrafter.xyz)
+
+---
+
 ### 🛠️ My Tech Stack
 
 **Languages & Core**
